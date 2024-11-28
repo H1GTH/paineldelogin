@@ -15,16 +15,28 @@
 
     <form action="#" method="POST" id="formulario">
         <label for="usuario">Usuário</label>
-        <input type="text" id="user" name="user" required>
+        <input class="input_login_painel" type="text" id="user" name="user" required>
 
         <label for="senha">Senha</label>
-        <input type="password" id="password" name="password" required>
+        <input class="input_senha_painel" type="password" id="password" name="password" required>
 
         <button type="submit" id="b-login">LOGIN</button>
         <button type="submit" id="b-registro">REGISTRO</button>
-        <a href="#">Esqueci minha senha</a>
+        <a href="#" id="esqueci_senha">Esqueci minha senha</a>
     </form>
 
+</div>
+
+<div class="flip-card-back">
+    <form id="register-form">
+        <h2>REGISTRO</h2>
+        <input class="input_reg_nome" type="text" placeholder="Nome" required><br>
+        <input class="input_reg_email" type="email" placeholder="Email" required><br>
+        <input class="input_reg_senha" type="password" placeholder="Senha" required><br>
+        <input class="input_reg_confsenha" type="password" placeholder="Confirmar Senha" required><br>
+        <button class="button_reg" type="submit">REGISTRAR</button>
+        <p><a href="#" id="show-login">Já tem uma conta? Faça login</a></p>
+    </form>
 </div>
 
 </body>
