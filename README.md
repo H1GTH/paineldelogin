@@ -1,1 +1,2 @@
 <img src="https://cdn.discordapp.com/attachments/1311386768569929810/1312099294186180678/image.png?ex=674b4331&is=6749f1b1&hm=dc82146ad8f9f08df0062ec752add320de70ea95b251712cc782733b562a6bc5&" alt="Painel de Acesso">
+<img src="https://cdn.discordapp.com/attachments/1311386768569929810/1312100196032839720/image.png?ex=674b4408&is=6749f288&hm=02559a1c6718d5e0a9bb2e6087a768e0c434b614822efdcbadd995f65d7b488b&" alt="Painel de Registro">
