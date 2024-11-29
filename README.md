@@ -1,1 +1,1 @@
-<img src="[URL_da_Imagem](https://cdn.discordapp.com/attachments/1311386768569929810/1312099294186180678/image.png?ex=674b4331&is=6749f1b1&hm=dc82146ad8f9f08df0062ec752add320de70ea95b251712cc782733b562a6bc5&)" alt="Painel de Acesso">
+<img src="(https://cdn.discordapp.com/attachments/1311386768569929810/1312099294186180678/image.png?ex=674b4331&is=6749f1b1&hm=dc82146ad8f9f08df0062ec752add320de70ea95b251712cc782733b562a6bc5&)" alt="Painel de Acesso">
