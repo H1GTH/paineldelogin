@@ -96,6 +96,8 @@ button {
     background-color: #589e49;
     border-radius: 10px;
     font-size: 20px;
+    opacity: 1;
+
 
 
 }
@@ -203,6 +205,24 @@ h2 {
 
 }
 
+#b-login:hover {
+    opacity: 0,8;
+    background-color: #2c7d20;
+    
+
+}
+
+#b-registro:hover {
+
+    background-color: #272727
+
+}
+
+
+
+
+
+
 #show-login {
 
     color: #f4f4f4;
@@ -210,5 +230,11 @@ h2 {
     display: inline-flex;
     position:relative;
     padding-left: 170px;
+
+}
+
+.flip-card-back {
+
+    display: none;
 
 }
